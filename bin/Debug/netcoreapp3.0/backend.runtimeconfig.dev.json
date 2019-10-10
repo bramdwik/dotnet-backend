@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/bramdk/.dotnet/store/|arch|/|tfm|",
+      "/home/bramdk/.nuget/packages"
+    ]
+  }
+}
